@@ -29,6 +29,9 @@ body {
     margin-top: 20px;
   }
 }
+.speakers__companies {
+  color: rgb(0, 63, 180);
+}
 .speakers__title {
   font-weight: 700;
   font-size: 36px;
