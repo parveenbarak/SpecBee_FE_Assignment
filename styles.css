@@ -47,6 +47,11 @@ body {
   justify-content: center;
   align-items: center;
 }
+@media (max-width: 480px) {
+  .speakers__slider {
+    flex-direction: column;
+  }
+}
 .speakers__list {
   display: flex;
   gap: 20px;
@@ -69,6 +74,11 @@ body {
     margin-right: 20px;
   }
 }
+@media (max-width: 480px) {
+  .speakers__arrow--left {
+    margin-bottom: 20px;
+  }
+}
 .speakers__arrow--right {
   font-size: 24px;
   font-weight: 800;
@@ -84,6 +94,11 @@ body {
 @media (max-width: 768px) {
   .speakers__arrow--right {
     margin-left: 20px;
+  }
+}
+@media (max-width: 480px) {
+  .speakers__arrow--right {
+    margin-top: 20px;
   }
 }
 .speakers__program-button {

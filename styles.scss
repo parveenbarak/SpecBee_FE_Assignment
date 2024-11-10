@@ -91,7 +91,12 @@ body {
 
   &__slider {
     @include flex-center;
+    @include responsive(mobile) {
+      flex-direction: column;
+      
+    }
   }
+  
 
   &__list {
     display: flex;
@@ -107,6 +112,9 @@ body {
       @include responsive(tablet) {
         margin-right: 20px;
       }
+      @include responsive(mobile) {
+        margin-bottom: 20px;
+      }
     }
 
     &--right {
@@ -115,6 +123,10 @@ body {
 
       @include responsive(tablet) {
         margin-left: 20px;
+      }
+      @include responsive(mobile) {
+        margin-top: 20px;
+        
       }
     }
   }
