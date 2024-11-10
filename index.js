@@ -90,6 +90,258 @@ const allSpeakers= [{
     image: './assets/Ellipse 24 (3).png',
     description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
 },
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (1).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (2).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (3).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24.png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (3).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24.png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (1).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (2).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24.png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (1).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (2).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (3).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (1).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (2).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (3).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24.png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (3).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24.png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (1).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (2).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24.png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (1).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (2).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (3).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (1).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (2).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (3).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24.png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (3).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24.png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (1).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (2).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24.png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (1).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (2).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
+{
+    name: 'John Doe',
+    company: 'Specbee',
+    position: 'Chief Marketing Officer',
+    image: './assets/Ellipse 24 (3).png',
+    description: 'Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas.'
+},
 ]
 
 
