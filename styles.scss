@@ -55,7 +55,12 @@ body {
   font-family: "Open Sans", serif;
   color: map-get($colors, 'black');
 }
-
+.wrapper {
+  width: 100%;
+  max-width: 1400px; // Or whatever maximum width you prefer
+  margin: 0 auto;
+  padding: 0 20px; // Add some padding on the sides
+}
 // Speakers Section
 .speakers {
   display: flex;

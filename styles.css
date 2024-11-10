@@ -12,6 +12,13 @@ body {
   color: rgb(0, 0, 0);
 }
 
+.wrapper {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
 .speakers {
   display: flex;
   flex-direction: column;
